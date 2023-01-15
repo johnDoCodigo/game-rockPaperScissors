@@ -1,6 +1,5 @@
 public class Player {
 
-    // comment added
 
     private String name;
 
